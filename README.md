@@ -10,3 +10,5 @@ Output:
 1. Translated text in the target language.
 2. Translated text in the form of speech.
 3. Replacing the translated text in target language in the original Image in the same Foreground and background texture and Font size in the same location.
+<img src="source.png" width="128"/>
+<img src="target.png" width="128"/>
